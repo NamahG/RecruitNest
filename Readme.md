@@ -40,4 +40,4 @@
 3. Import dummy data using 'data_in.sql' file.
 
 ## Collaborators
-Armaan Gupta, VedantSindhwani, Vibhor Barguje, Tarun Rao
+Namah Gupta, Armaan Gupta, Vedant Sindhwani, Vibhor Barguje, Tarun Rao
