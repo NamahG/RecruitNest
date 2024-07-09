@@ -38,3 +38,6 @@
 1. Create a new MySql database.
 2. Import initial database schema using `tables1.sql` and queries using `query10.sql` files.
 3. Import dummy data using 'data_in.sql' file.
+
+## Collaborators
+Armaan Gupta, VedantSindhwani, Vibhor Barguje, Tarun Rao
